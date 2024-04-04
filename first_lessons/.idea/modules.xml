@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DZ6_Final/DZ6_Final.iml" filepath="$PROJECT_DIR$/../DZ6_Final/DZ6_Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Dz1_1_PrimeNums/Dz1_1_PrimeNums.iml" filepath="$PROJECT_DIR$/../Dz1_1_PrimeNums/Dz1_1_PrimeNums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Dz1_2_Calculator/Dz1_2_Calculator.iml" filepath="$PROJECT_DIR$/../Dz1_2_Calculator/Dz1_2_Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Dz1_PrimeNums/Dz1_PrimeNums.iml" filepath="$PROJECT_DIR$/../Dz1_PrimeNums/Dz1_PrimeNums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Dz2_1_StringBuilder_Sql/Dz2_1_StringBuilder_Sql.iml" filepath="$PROJECT_DIR$/../Dz2_1_StringBuilder_Sql/Dz2_1_StringBuilder_Sql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Dz2_2_BubbleSort_Logger/Dz2_2_BubbleSort_Logger.iml" filepath="$PROJECT_DIR$/../Dz2_2_BubbleSort_Logger/Dz2_2_BubbleSort_Logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Dz2_2_Logger_setProperty/Dz2_2_Logger_setProperty.iml" filepath="$PROJECT_DIR$/../Dz2_2_Logger_setProperty/Dz2_2_Logger_setProperty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Dz2_Calculator/Dz2_Calculator.iml" filepath="$PROJECT_DIR$/../Dz2_Calculator/Dz2_Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Dz3_1_MergeSort/Dz3_1_MergeSort.iml" filepath="$PROJECT_DIR$/../Dz3_1_MergeSort/Dz3_1_MergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Dz3_2_asList_remove()/Dz3_2_asList_remove().iml" filepath="$PROJECT_DIR$/../Dz3_2_asList_remove()/Dz3_2_asList_remove().iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Dz3_3_Collections_SortMinMax/Dz3_3_Collections_SortMinMax.iml" filepath="$PROJECT_DIR$/../Dz3_3_Collections_SortMinMax/Dz3_3_Collections_SortMinMax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Dz4_1_LL_revers/Dz4_1_LL_revers.iml" filepath="$PROJECT_DIR$/../Dz4_1_LL_revers/Dz4_1_LL_revers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Dz4_2_Queue_methods/Dz4_2_Queue_methods.iml" filepath="$PROJECT_DIR$/../Dz4_2_Queue_methods/Dz4_2_Queue_methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Dz4_3_calc_Stack/Dz4_3_calc_Stack.iml" filepath="$PROJECT_DIR$/../Dz4_3_calc_Stack/Dz4_3_calc_Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Dz5_1_phonebook/Dz5_1_phonebook.iml" filepath="$PROJECT_DIR$/../Dz5_1_phonebook/Dz5_1_phonebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Dz5_2_HeapSort/Dz5_2_HeapSort.iml" filepath="$PROJECT_DIR$/../Dz5_2_HeapSort/Dz5_2_HeapSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ex1_2/Ex1_2.iml" filepath="$PROJECT_DIR$/../Ex1_2/Ex1_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ex1_3SubstringIndexOf/Ex1_3SubstringIndexOf.iml" filepath="$PROJECT_DIR$/../Ex1_3SubstringIndexOf/Ex1_3SubstringIndexOf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ex2_1Compression/Ex2_1Compression.iml" filepath="$PROJECT_DIR$/../Ex2_1Compression/Ex2_1Compression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ex2_2StringBuilder/Ex2_2StringBuilder.iml" filepath="$PROJECT_DIR$/../Ex2_2StringBuilder/Ex2_2StringBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ex2_3Palindrom/Ex2_3Palindrom.iml" filepath="$PROJECT_DIR$/../Ex2_3Palindrom/Ex2_3Palindrom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ex2_4FilesLogger/Ex2_4FilesLogger.iml" filepath="$PROJECT_DIR$/../Ex2_4FilesLogger/Ex2_4FilesLogger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ex3_1_sort_ArrayList/Ex3_1_sort_ArrayList.iml" filepath="$PROJECT_DIR$/../Ex3_1_sort_ArrayList/Ex3_1_sort_ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ex3_2_Planets/Ex3_2_Planets.iml" filepath="$PROJECT_DIR$/../Ex3_2_Planets/Ex3_2_Planets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ex3_3_Iterator_Parse/Ex3_3_Iterator_Parse.iml" filepath="$PROJECT_DIR$/../Ex3_3_Iterator_Parse/Ex3_3_Iterator_Parse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ex3_4/Ex3_4.iml" filepath="$PROJECT_DIR$/../Ex3_4/Ex3_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ex4_1_LinkedList_split/Ex4_1_LinkedList_split.iml" filepath="$PROJECT_DIR$/../Ex4_1_LinkedList_split/Ex4_1_LinkedList_split.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ex4_2_Stack_Queue/Ex4_2_Stack_Queue.iml" filepath="$PROJECT_DIR$/../Ex4_2_Stack_Queue/Ex4_2_Stack_Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ex5_1_Brackets_Check/Ex5_1_Brackets_Check.iml" filepath="$PROJECT_DIR$/../Ex5_1_Brackets_Check/Ex5_1_Brackets_Check.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ex5_2_romanToArabian/Ex5_2_romanToArabian.iml" filepath="$PROJECT_DIR$/../Ex5_2_romanToArabian/Ex5_2_romanToArabian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ex6_0_lectionWork/Ex6_0_lectionWork.iml" filepath="$PROJECT_DIR$/../Ex6_0_lectionWork/Ex6_0_lectionWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ex6_1____/Ex6_1____.iml" filepath="$PROJECT_DIR$/../Ex6_1____/Ex6_1____.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ex6_2_Set_find_percent/Ex6_2_Set_find_percent.iml" filepath="$PROJECT_DIR$/../Ex6_2_Set_find_percent/Ex6_2_Set_find_percent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ex6_3_Cats/Ex6_3_Cats.iml" filepath="$PROJECT_DIR$/../Ex6_3_Cats/Ex6_3_Cats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ex6_4____/Ex6_4____.iml" filepath="$PROJECT_DIR$/../Ex6_4____/Ex6_4____.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first_lessons.iml" filepath="$PROJECT_DIR$/first_lessons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../x-blank1/x-blank1.iml" filepath="$PROJECT_DIR$/../x-blank1/x-blank1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../x-blank2/x-blank2.iml" filepath="$PROJECT_DIR$/../x-blank2/x-blank2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../x-blank3/x-blank3.iml" filepath="$PROJECT_DIR$/../x-blank3/x-blank3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../x-blank4/x-blank4.iml" filepath="$PROJECT_DIR$/../x-blank4/x-blank4.iml" />
+    </modules>
+  </component>
+</project>

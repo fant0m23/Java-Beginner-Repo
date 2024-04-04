@@ -1,0 +1,2 @@
+апр. 04, 2024 11:06:08 AM WriteFilesLogging recordToFile
+WARNING: Ошибка записи в файл!
