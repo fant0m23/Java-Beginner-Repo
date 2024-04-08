@@ -6,7 +6,8 @@ public class UI {
             "\nВведите цифру, соответствующую необходимому критерию фильтрации ноутбуков: ";
 
     private static Scanner scanner = new Scanner(System.in);
-
+    // Сканнер нужно закрывать. Для сканнера уровня класса это можно сделать
+    // в вызывающем классе через блок try-with-resources.
     public static int requestCriteria() {
         while (true) {
             System.out.print(filter);
@@ -22,6 +23,8 @@ public class UI {
                 System.out.println("Выберите критерий фильтрации, введя цифру от 1 до 6!");
             }
         }
+        // Сканнер нужно закрывать. Для сканнера уровня класса это можно сделать
+        // в вызывающем классе через блок try-with-resources.
     }
 
     public static boolean isInteger(String str) {
@@ -52,9 +55,13 @@ public class UI {
                 System.out.println("Следует вводить цифру!");
             }
         }
+        // Сканнер нужно закрывать. Для сканнера уровня класса это можно сделать
+        // в вызывающем классе через блок try-with-resources.
     }
 
     public static String getUserStr() {
         return scanner.nextLine();
     }
+    // Сканнер нужно закрывать. Для сканнера уровня класса это можно сделать
+    // в вызывающем классе через блок try-with-resources.
 }
